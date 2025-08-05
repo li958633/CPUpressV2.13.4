@@ -2,7 +2,8 @@
 
 #### 一、功能与特点
 
-1. **核心功能**
+1. **核心功能**<img width="1147" height="725" alt="QQ_1754379067466" src="https://github.com/user-attachments/assets/870190ed-dfba-4a43-b9c1-518b70c63ca2" />
+
 
 - 多线程压力测试：支持全核心满载测试，可自定义线程数
 
