@@ -2,7 +2,7 @@
 
 
 
-<img width="1147" height="725" alt="QQ_1754379067466" src="https://github.com/user-attachments/assets/870190ed-dfba-4a43-b9c1-518b70c63ca2" />
+<img width="1138" height="722" alt="QQ_1754379272102" src="https://github.com/user-attachments/assets/bea0df1b-e2c1-4223-9188-d89f10b8e784" />
 
 #### 一、功能与特点
 
