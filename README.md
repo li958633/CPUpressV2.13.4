@@ -1,10 +1,12 @@
 ### CPU压榨机 - 业余级CPU性能测试工具
 
+
+
+<img width="1147" height="725" alt="QQ_1754379067466" src="https://github.com/user-attachments/assets/870190ed-dfba-4a43-b9c1-518b70c63ca2" />
+
 #### 一、功能与特点
 
-1. **核心功能**<img width="1147" height="725" alt="QQ_1754379067466" src="https://github.com/user-attachments/assets/870190ed-dfba-4a43-b9c1-518b70c63ca2" />
-
-
+1. **核心功能**
 - 多线程压力测试：支持全核心满载测试，可自定义线程数
 
 - 实时监控：动态显示CPU使用率，可视化进度条
@@ -91,9 +93,17 @@ def cpu_stress_worker(duration, speed_factor, max_usage, stop_event):
 **界面说明**
 
 - 仪表盘：核心监控区域，显示CPU状态
+- <img width="1138" height="722" alt="QQ_1754379272102" src="https://github.com/user-attachments/assets/bea0df1b-e2c1-4223-9188-d89f10b8e784" />
+
 - 测试日志：记录所有测试事件
+- <img width="1135" height="723" alt="QQ_1754379328451" src="https://github.com/user-attachments/assets/9ff5d11e-278d-49a0-9d6e-698a2e0c86c9" />
+
 - 系统设置：查看硬件信息和默认配置
+- <img width="1137" height="719" alt="QQ_1754379387121" src="https://github.com/user-attachments/assets/b8c9dc5e-3222-4d47-bfbe-2b7e5cab5163" />
+
 - 关于页面：开发者信息和项目链接
+<img width="502" height="432" alt="QQ_1754379431163" src="https://github.com/user-attachments/assets/dda41653-a8f4-4349-bd12-868233b5d910" />
+
 
 #### 四、注意事项
 
